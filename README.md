@@ -1,2 +1,2 @@
 # IDBook
-Project For Final Test OOP course
+Project for Final Course Object Oriented Programming
